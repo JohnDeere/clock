@@ -4,7 +4,7 @@
 
     <groupId>com.deere.isg</groupId>
     <artifactId>clock</artifactId>
-    <version>3.0.0</version>
+    <version>3.0.1-SNAPSHOT</version>
     <name>clock</name>
     <description>A simple abstraction of the system clock for testing purposes</description>
     <url>http://github.com/JohnDeere/clock</url>
@@ -21,7 +21,7 @@
         <connection>scm:git:https://github.com/JohnDeere/clock.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/JohnDeere/clock.git</developerConnection>
         <url>https://github.com/JohnDeere/clock</url>
-        <tag>clock-3.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
