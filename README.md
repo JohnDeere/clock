@@ -1,7 +1,8 @@
-[![Build Status](https://travis-ci.org/JohnDeere/clock.svg?branch=master)](https://travis-ci.org/JohnDeere/clock)
-
 Clock
 =====
+[![Build Status](https://travis-ci.org/JohnDeere/clock.svg?branch=master)](https://travis-ci.org/JohnDeere/clock)
+[![DepShield Badge](https://depshield.sonatype.org/badges/JohnDeere/clock/depshield.svg)](https://depshield.github.io)
+
 
 System Clock Abstractions &amp; Joda DateTime providers.
 
