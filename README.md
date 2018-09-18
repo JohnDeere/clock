@@ -1,6 +1,7 @@
 Clock
 =====
 [![Build Status](https://travis-ci.org/JohnDeere/clock.svg?branch=master)](https://travis-ci.org/JohnDeere/clock)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.deere.isg/clock/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.deere.isg/clock)
 [![DepShield Badge](https://depshield.sonatype.org/badges/JohnDeere/clock/depshield.svg)](https://depshield.github.io)
 
 
