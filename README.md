@@ -10,7 +10,7 @@ System Clock Abstractions &amp; Joda DateTime providers.
 ## Installation
 ```xml
 <dependency>
-    <groupId>com.deere</groupId>
+    <groupId>com.deere.isg</groupId>
     <artifactId>clock</artifactId>
     <version>3.0.0</version>
 </dependency>
