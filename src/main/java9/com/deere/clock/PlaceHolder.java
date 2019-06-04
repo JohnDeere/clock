@@ -14,11 +14,13 @@
  * limitations under the License.
  */
 
+
 package com.deere.clock;
 
-import org.joda.time.DateTime;
-
-@FunctionalInterface
-public interface ClockInstance {
-    DateTime now();
+/**
+ * @deprecated Do not use, will disappear if Java11 code is ever added.
+ */
+@Deprecated
+class PlaceHolder {
+    private PlaceHolder() {}
 }

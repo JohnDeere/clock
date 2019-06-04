@@ -14,11 +14,7 @@
  * limitations under the License.
  */
 
-package com.deere.clock;
-
-import org.joda.time.DateTime;
-
-@FunctionalInterface
-public interface ClockInstance {
-    DateTime now();
+open module com.deere.isg.clock {
+    requires org.joda.time;
+    exports com.deere.clock;
 }
