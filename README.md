@@ -16,6 +16,11 @@ System Clock Abstractions &amp; Joda DateTime providers.
 </dependency>
 ```
 
+## Module support for Java 9 and later
+```
+ requires com.deere.isg.clock;
+```
+
 ## Usage
 Getting the current date-time in UTC
 ```java
